@@ -1769,6 +1769,12 @@ input, select, textarea {
 			display: block;
 			width: 100%;
 		}
+		.image.web {
+			display: block;
+			width: 45%;
+			
+			
+		}
 
 		.image.featured {
 			display: block;
